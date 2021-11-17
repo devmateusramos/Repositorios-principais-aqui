@@ -19,6 +19,12 @@ Repositório pra separar e descrever meus principais projetos por tecnologias.
 ### React Native
 ---
 ---
+### Data Structures and Algorithms
+---
+---
+### Design Patterns
+---
+---
 ##
 ## Python
 
