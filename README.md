@@ -4,6 +4,18 @@ Repositório pra separar e descrever meus principais projetos por tecnologias.
 ### Em desenvolvimento
 
 ## Javascript/ Typescript
+### Data Structures and Algorithms
+---
+ <a href="#">Projeto 2</a></br></br>
+
+---
+### Design Patterns
+---
+ <a href="#">Design Patterns Typescript intro</a></br></br>
+ <a href="#">Design Patterns Typescript all 23</a></br></br>
+ <a href="#">Dominando Typescript</a></br></br>
+
+---
 
 ### Node
 ---
@@ -15,16 +27,14 @@ Repositório pra separar e descrever meus principais projetos por tecnologias.
 ---
 ### React
 ---
+ <a href="#">Dashboard React com typescript</a></br></br>
+ <a href="#">Projeto 2</a></br></br>
+
 ---
 ### React Native
 ---
 ---
-### Data Structures and Algorithms
----
----
-### Design Patterns
----
----
+
 ##
 ## Python
 
