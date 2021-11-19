@@ -13,7 +13,7 @@ Repositório pra separar e descrever meus principais projetos por tecnologias.
 ---
  <a href="#">Design Patterns Typescript intro</a></br></br>
  <a href="#">Design Patterns Typescript all 23</a></br></br>
- <a href="#">Dominando Typescript</a></br></br>
+ <a href="https://github.com/devmateusramos/Dominando-Typescript">Dominando Typescript</a></br></br>
 
 ---
 
