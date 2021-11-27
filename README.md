@@ -2,7 +2,7 @@
 Repositório pra separar e descrever meus principais projetos por tecnologias. 
 
 ### Em desenvolvimento
-
+Os com # tem que ser arrumado o link
 ## Javascript/ Typescript
 ### Data Structures and Algorithms
 ---
@@ -19,8 +19,11 @@ Repositório pra separar e descrever meus principais projetos por tecnologias.
 
 ### Node
 ---
- <a href="https://github.com/devmateusramos/Api-Restfull-TypeORM-Node">Projeto Api vendas</a></br></br>
- <a href="https://github.com/devmateusramos/Estudo-Node">Projeto sistema de cadastro de carros com modelos e descrições, Api Restfull, banco de dados SQL</a></br></br>
+ <a href="https://github.com/devmateusramos">#Projeto Api vendas: Api Restfull, TypeORM, TDD, Docker</a></br></br>
+ <a href="https://github.com/devmateusramos">#Projeto Tougths: Node, sequelize, MVC, handlebars</a></br></br>
+ <a href="https://github.com/devmateusramos">#Projeto get a pet: Node, MVC, Api restful, MongoDB , Mongoose, para um front em React</a></br></br>
+ <a href="https://github.com/devmateusramos">#Projeto Chat: Websocket com Socket.io, Node, Bootstrap</a></br></br>
+ <a href="https://github.com/devmateusramos">#Projeto sistema de cadastro de carros: Api Restfull, TypeORM, banco de dados SQL, Docker</a></br></br>
 
 
 
@@ -28,6 +31,8 @@ Repositório pra separar e descrever meus principais projetos por tecnologias.
 ### React
 ---
  <a href="https://github.com/devmateusramos/Dashboard-com-React">Dashboard React com typescript</a></br></br>
+  <a href="https://github.com/devmateusramos">#Projeto React-zzaria: Projeto completo utilizando React com testes no Jest, React Router e Hooks</a></br></br>
+
 
 ---
 ### React Native
