@@ -2,7 +2,7 @@
 Repositório pra separar e descrever meus principais projetos por tecnologias. 
 
 ### Em desenvolvimento
-Os com # tem que ser arrumado o link
+Os com # tem que ser arrumado o link e/ou estão desenvolvimento.
 ## Javascript/ Typescript
 ### Data Structures and Algorithms
 ---
@@ -21,9 +21,9 @@ Os com # tem que ser arrumado o link
 ---
 <a href="https://github.com/devmateusramos/websocket-node-socketio">Projeto Chat: Chat desenvolvido utilizando Websocket com Socket.io, Node, Express e Bootstrap.</a></br></br>
 <a href="https://github.com/devmateusramos/Websocket-chat">Projeto Websocket: Desenvolvimento de um chat</a></br></br>
- <a href="https://github.com/devmateusramos">#Projeto Api vendas: Api Restfull, TypeORM, TDD, Docker</a></br></br>
- <a href="https://github.com/devmateusramos">#Projeto Tougths: Node, sequelize, MVC, handlebars</a></br></br>
- <a href="https://github.com/devmateusramos">#Projeto get a pet: Node, MVC, Api restful, MongoDB , Mongoose, para um front em React</a></br></br>
+ <a href="https://github.com/devmateusramos">#Projeto Api vendas: Api Restfull,Node, Express, TypeORM, TDD, Docker</a></br></br>
+ <a href="https://github.com/devmateusramos">#Projeto RentalX: Node, Express, Typeorm, Postgres, Docker, Api Restfull</a></br></br>
+ <a href="https://github.com/devmateusramos">#Projeto Ranking: Node, NestJS, Microservices, RabbitMQ, Cloud services</a></br></br>
 
 
 
